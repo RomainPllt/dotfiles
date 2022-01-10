@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pellet.romain@gmail.com
+	name = romainpellet
